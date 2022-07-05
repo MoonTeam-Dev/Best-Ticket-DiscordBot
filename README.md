@@ -1,5 +1,9 @@
 # Ticket Bot
 
+<div align="left">
+<img src="https://cdn.discordapp.com/attachments/949780013337686066/993790917288919130/-_Discord_14_04_1401_12_38_23_._2.png" />
+</div>
+
 A discord ticket bot with buttons & slash commands
 - Made in Discord.js v13
 
