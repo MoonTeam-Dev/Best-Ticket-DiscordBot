@@ -9,7 +9,7 @@ module.exports = {
   async execute(interaction, client) {
     const embed = new client.discord.MessageEmbed()
       .setColor('303236')
-      .setDescription('Ticket-Bot)
+      .setDescription('Ticket-Bot')
       .setFooter(client.user.tag, client.user.avatarURL())
       .setTimestamp();
     await interaction.reply({
