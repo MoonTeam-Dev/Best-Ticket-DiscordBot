@@ -14,7 +14,7 @@ You need to have Node.JS 16+
 ``````bash
 git clone https://github.com/MoonTeam-Dev
 cd ticket-moon
-npm i
+npm install in package.json
 ``````
 
 ## Configuraton
