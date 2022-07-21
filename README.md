@@ -46,13 +46,13 @@ node commands.js # To deploy slash commands in all the servers the bot is in
 node index.js # To start the ticket-bot
 ```
 
-### </div align="center">
+</div align="center">
 <p> Made by MoonTeam-Dev:</p>
 </div></br>
 
 <div align="center"> 
-   - ᴘᴀʀᴢɪᴠᴀʟ ☾#1724, 
-   - ꜱᴀᴛᴀɴɪᴄ ☾#3773, 
+   - ᴘᴀʀᴢɪᴠᴀʟ ☾#1724 || 
+   - ꜱᴀᴛᴀɴɪᴄ ☾#3773 || 
    - ᴀʀʙᴀʙ ᴍᴀᴛɪɴ ☾#4030
 </div>
 
