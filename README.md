@@ -51,7 +51,7 @@ node index.js # To start the ticket-bot
 
 ----
 
-- ꜱᴀᴛᴀɴɪᴄ ☾#3773
-- ᴘᴀʀᴢɪᴠᴀʟ ☾#1724
-- ᴀʀʙᴀʙ ᴍᴀᴛɪɴ ☾#4030
+<div align="left"> ###- ꜱᴀᴛᴀɴɪᴄ ☾#3773 </div>
+<div align="center"> ###- ᴘᴀʀᴢɪᴠᴀʟ ☾#1724 </div>
+<div align="right"> - ᴀʀʙᴀʙ ᴍᴀᴛɪɴ ☾#4030 </div>
 </div>
