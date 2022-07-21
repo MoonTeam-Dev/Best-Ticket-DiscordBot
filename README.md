@@ -47,7 +47,7 @@ node index.js # To start the ticket-bot
 ```
 
 </div align="center">
-<a3> Made by MoonTeam-Dev:</a3>
+<a1> Made by MoonTeam-Dev:</a1>
 </div></br>
 
 <div align="center"> 
