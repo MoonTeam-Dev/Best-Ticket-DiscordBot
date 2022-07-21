@@ -25,10 +25,10 @@ npm install in package.json
   "clientId": "id of the bot",
   "token": "Discord bot's token",
 
-  "parentOpened": "id of the category when a ticket is opened",
-  "Category1": "Name of the first support category",
-  "Category2": "Name of the second support category",
-  "Category3": "Name of the third support category",
+  "parentOpened": "id of the category when a ticket is opened", //copy id category ticket
+  "Category1": "Connect To Developer Team", //libel 1
+  "Category2": "Connect To Staff Team", //libel 2
+  "Category3": "Report Bug", //libel 3
 
   "roleSupport": "id of the support team role",
   
