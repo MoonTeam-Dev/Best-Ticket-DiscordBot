@@ -48,11 +48,11 @@ node index.js # To start the ticket-bot
 
 </div align="center">
 <a> Made by MoonTeam-Dev:</a>
+</div></br>
+
+<div align="center"> 
+   - ᴘᴀʀᴢɪᴠᴀʟ ☾#1724, 
+   - ꜱᴀᴛᴀɴɪᴄ ☾#3773, 
+   - ᴀʀʙᴀʙ ᴍᴀᴛɪɴ ☾#4030
 </div>
-
 ----
-
-<div align="center"> - ꜱᴀᴛᴀɴɪᴄ ☾#3773 
- - ᴘᴀʀᴢɪᴠᴀʟ ☾#1724 
- - ᴀʀʙᴀʙ ᴍᴀᴛɪɴ ☾#4030 </div>
-
